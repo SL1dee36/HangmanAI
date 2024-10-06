@@ -1,3 +1,4 @@
+```
 Game number: 1 | Word to guess: PERPETUMOFMOBILE
 Step [0]: Neural network response: M | Correct
 Step [1]: Neural network response: I | Correct
